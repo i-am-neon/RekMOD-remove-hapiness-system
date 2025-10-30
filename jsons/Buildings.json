@@ -1,13 +1,12 @@
 [
   {
     "name": "RHS — Annex Penalty Remover (Hidden)",
-    "cost": 1,
+    "cost": 0,
     "maintenance": 0,
     "uniques": [
       "Removes extra unhappiness from annexed cities",
       "Automatically built in all cities where it is buildable",
       "Will not be displayed in Civilopedia",
-      "Unbuildable"
     ]
   },
     //Piety Complete
