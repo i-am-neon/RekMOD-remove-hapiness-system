@@ -2,6 +2,9 @@
     "name": "Global uniques",
     "uniques": [
          "[-100]% Unhappiness from [Population] [in all cities]",
+    "[-100]% unhappiness from the number of cities",
+    "[-100]% Unhappiness from [Specialists] [in all cities]",
+    "[-100]% Unhappiness from [Unemployed] [in all cities]",
         "[-1] Sight <for [Embarked] units>",
         "Enables Open Borders agreements",
         "Enables Defensive Pacts",
