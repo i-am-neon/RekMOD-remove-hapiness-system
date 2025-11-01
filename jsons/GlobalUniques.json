@@ -1,6 +1,8 @@
 {
     "name": "Global uniques",
     "uniques": [
+"[+200]% Science cost of researching new Technologies",
+    "[+200]% Culture cost of adopting new Policies",
          "[-100]% Unhappiness from [Population] [in all cities]",
     "[-100]% unhappiness from the number of cities",
     "[-100]% Unhappiness from [Specialists] [in all cities]",
