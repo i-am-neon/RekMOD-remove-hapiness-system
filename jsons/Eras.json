@@ -19,7 +19,7 @@
     {
         "name": "Classical era",
         "researchAgreementCost": 150,
-        "startingSettlerCount": 1,
+        "startingSettlerCount": 2,
         "startingWorkerCount": 0,
         "startingMilitaryUnitCount": 2,
         "startingMilitaryUnit": "Spearman",
